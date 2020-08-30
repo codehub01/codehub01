@@ -15,7 +15,7 @@
           
           <p
             class="mt-5 text-white"
-          >Have a project you would like me to work on, please fill and submit the form below. You should get a response from me within 3 hours.</p>
+          >Have a project you would like me to work on, please fill and submit the form below. You should get a response from me within an hour.</p>
         </div> 
       </div>
 

@@ -3,7 +3,7 @@
         "id":1,
         "name":"TalentPool",
         "link":"https://talentspool.netlify.app/",
-        "techUsed":"HTML, CSS, Javascript",
+        "techUsed":"HTML, CSS, Bootstrap, Javascript",
         "description":"Talentpool connect companies with top talents perfect for their tech needs (HNGi7 Project)"
 
     },
@@ -11,7 +11,7 @@
         "id":2,
         "name":"Everything Notch",
         "link":"https://everythingnotch.netlify.app/",
-        "techUsed":"HTML, CSS, Javascript",
+        "techUsed":"HTML, CSS, Bootstrap, Javascript",
         "description":"A beauty contest template"
 
     },
@@ -19,7 +19,7 @@
         "id":3,
         "name":"Evanto Portfolio",
         "link":"https://evanto-musical-porfolio.netlify.app/",
-        "techUsed":"HTML, CSS",
+        "techUsed":"HTML, CSS, Bootstrap",
         "description":"HNGi7 Evanto Porfolio Project"
 
     },
@@ -27,7 +27,7 @@
         "id":4,
         "name":"Blog Template",
         "link":"https://themesflat-blog-template.netlify.app/",
-        "techUsed":"HTML, CSS",
+        "techUsed":"HTML, CSS, Bootstrap",
         "description":"A blog template from themesflat"
 
     },
@@ -35,7 +35,7 @@
         "id":5,
         "name":"New StartNG website",
         "link":"https://new-start-ng.netlify.app/",
-        "techUsed":"HTML, CSS",
+        "techUsed":"HTML, CSS, Bootstrap",
         "description":"Part of my HNGi7 Porject"
 
     },
@@ -43,7 +43,7 @@
         "id":5,
         "name":"Engineering Template",
         "link":"https://engineering-template.netlify.app/",
-        "techUsed":"HTML, CSS",
+        "techUsed":"HTML, CSS, Bootstrap",
         "description":"A single webpage template for engineering companies"
 
     },
@@ -51,7 +51,7 @@
         "id":5,
         "name":"Cyber Profiler",
         "link":"https://cyberprofiler.herokuapp.com/",
-        "techUsed":"HTML, CSS, PHP",
+        "techUsed":"HTML, CSS, Bootstrap, PHP",
         "description":"To develop a cyber security program that supports all areas (HNGi7 Project) "
 
     }
